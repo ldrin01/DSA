@@ -26,14 +26,14 @@ Linear Search
     END PROGRAM 
 
 ## Screenshots:
-![](https://github.com/ldrin01/DSA/tree/master/linear-search/img/1.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/linear-search/img/1.PNG)
 ----------
 
 - Search found
 
-![](https://github.com/ldrin01/DSA/tree/master/linear-search/img/2.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/linear-search/img/2.PNG)
 ----------
 
 - Search not found
 
-![](https://github.com/ldrin01/DSA/tree/master/linear-search/img/3.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/linear-search/img/3.PNG)
