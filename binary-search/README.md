@@ -34,15 +34,15 @@ Binary Search
     END PROGRAM 
     
 ## Screenshots:
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/binary-search/img/1.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/binary-search/img/1.PNG)
 ----------
 
 - Search found
 
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/binary-search/img/2.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/binary-search/img/2.PNG)
 ----------
 
 - Search not found
 
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/binary-search/img/3.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/binary-search/img/3.PNG)
 
