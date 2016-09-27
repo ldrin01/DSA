@@ -77,16 +77,16 @@ Stack
     END PROGRAM 
     
 ## Screenshots:
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/1.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/1.PNG)
 ----------
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/2.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/2.PNG)
 ----------
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/3.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/3.PNG)
 ----------
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/4.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/4.PNG)
 ----------
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/5.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/5.PNG)
 ----------
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/6.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/6.PNG)
 ----------
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/array-stack/img/7.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/array-stack/img/7.PNG)
