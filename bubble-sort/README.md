@@ -2,4 +2,4 @@
 Find minimum and maximum number in array
 
 ## Screenshot:
-![](https://github.com/lvcc-dsa/Students/blob/master/BSIS/Bernardino-Eldrin/find-min-max/img/1.PNG)
+![](https://github.com/ldrin01/DSA/blob/master/find-min-max/img/1.PNG)
